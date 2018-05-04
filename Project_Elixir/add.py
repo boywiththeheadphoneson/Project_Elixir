@@ -1,3 +1,4 @@
+# Program to add two numbers and show a formatted output
 a = 10 
 b = 10 
 sum = a+b
