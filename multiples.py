@@ -9,6 +9,7 @@ for n in range(num):
     if(numbers % 3 == 0) or (numbers % 5 == 0):  
         total_sum += numbers
         
+#Print the sum
 print(total_sum)
 
 
