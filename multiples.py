@@ -1,6 +1,6 @@
 #program to ask the users for "n" numbers, finding if they are divisble by 3 & 5 and finding their sum
 
-num = int(input("Enter n numbers to perform the operation: ")) #n = 4
+num = int(input("Enter n numbers to perform the operation: ")) 
 total_sum = 0 
 
 for n in range(num):
