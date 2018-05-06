@@ -3,6 +3,7 @@
 num = int(input("Enter n numbers to perform the operation: ")) 
 total_sum = 0 
 
+#Loop through n inputs
 for n in range(num):
     numbers = int(input("Enter the number: ")) 
     if(numbers % 3 == 0) or (numbers % 5 == 0):  

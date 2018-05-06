@@ -1,3 +1,4 @@
+#Program to print multiplication table of n
 num = input("Enter the number to perform multiplication: ")
 
 for i in range(1, 11):
